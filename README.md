@@ -2,7 +2,7 @@
 
 # Project Description
 
-Stich Clothing Store is an e-commerce platform that allows customer to purchase high-brands clothes online. This platform has been developed to allow rural community of Nepal to shop variety of products and provide a secure and convinient experience. 
+Stich Clothing Store is an e-commerce platform that allows customer to purchase high-brands clothes online. This platform has been developed to allow rural community of Nepal to shop variety of products and provide a secure and convenient experience. 
 
 # Technologies Used
  
